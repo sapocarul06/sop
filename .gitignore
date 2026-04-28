@@ -1,0 +1,42 @@
+```
+# Build artifacts
+*.obj
+*.exe
+*.dll
+*.pdb
+*.userprefs
+*.user
+*.suo
+*.cache
+*.tmp
+*.log
+
+# Dependencies
+packages/
+bin/
+obj/
+
+# Environment specific
+.vs/
+.vshost.exe
+.userprefs
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+Desktop.ini
+
+# Testing
+TestResults/
+
+# NuGet
+*.nupkg
+.nuget/
+```
